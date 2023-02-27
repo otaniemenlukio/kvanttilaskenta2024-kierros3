@@ -7,7 +7,7 @@ Mallivastaukset julkaistaan PE 3.3.2023.
 
 Älä lataa Jupyter notebook-työkirjaa suoraan, koska sen mukana ei tule ulkoisia resursseja, kuten kuvia.
 
-Lataa sen sijaan koko git-repositorio zip-tiedostona klikkaamalla [`Download ZIP`](https://github.com/otaniemenlukio/kvanttilaskenta-kierros3/archive/refs/heads/main.zip).
+Lataa sen sijaan koko git-repositorio zip-tiedostona klikkaamalla [`Download ZIP`](https://github.com/otaniemenlukio/kvanttilaskenta-kierros3/archive/refs/heads/master.zip).
 
 > Linkki on sama kuin GitHubissa `Code` > `Download ZIP`
 
